@@ -1,0 +1,82 @@
+governo
+governamental
+governamentais
+federal
+estadual
+municipal
+publico
+público
+publica
+pública
+prefeitura
+prefeitura municipal
+prefeito
+vice prefeito
+secretaria
+secretário
+secretaria municipal
+secretaria estadual
+gabinete
+subprefeitura
+paço municipal
+camara
+câmara
+camara municipal
+vereador
+vereadores
+assembleia legislativa
+assembleia
+senado
+senador
+deputado
+deputada
+congresso
+tribunal
+forum
+fórum
+justica
+justiça
+ministerio publico
+ministério público
+promotoria
+defensoria
+autarquia
+fundacao publica
+fundação pública
+empresa publica
+empresa pública
+escola municipal
+escola estadual
+colegio estadual
+colégio estadual
+universidade federal
+instituto federal
+posto de saude
+posto de saúde
+unidade basica de saude
+unidade básica de saúde
+hospital municipal
+hospital estadual
+policia
+polícia
+policia militar
+polícia militar
+policia civil
+polícia civil
+delegacia
+bombeiros
+corpo de bombeiros
+guarda municipal
+departamento municipal
+servico publico
+serviço público
+servicos urbanos
+serviços urbanos
+ibge
+receita federal
+detran
+dnit
+anvisa
+anatel
+caixa economica federal
+caixa econômica federal
