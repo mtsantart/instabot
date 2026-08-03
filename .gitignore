@@ -34,3 +34,7 @@ keys.txt
 
 # python and exec files
 *.py
+
+# processed files
+exported.json
+exported.csv
